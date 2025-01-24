@@ -120,6 +120,10 @@ Machine Images), but it does use the EKS Optimized AMI. See the project
 repository for the [EKS Optimized AMI](https://github.com/awslabs/amazon-eks-ami)
 if you are interested in the AL2 container runtime kernel version.
 
+#### EKS-D 1.32 Version Dependencies
+* [v1-32-eks-4](releases/1-32/4/index.md) (January 24, 2025)
+* [v1-32-eks-4](releases/1-32/4/index.md) (January 24, 2025)
+
 #### EKS-D 1.31 Version Dependencies
 * [v1-31-eks-12](releases/1-31/12/index.md) (January 16, 2025)
 * [v1-31-eks-11](releases/1-31/11/index.md) (January 07, 2025)
